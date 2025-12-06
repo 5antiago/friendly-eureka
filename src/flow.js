@@ -17,19 +17,16 @@ const SCREEN_RESPONSES = {
         },
         {
           id: "clothing",
-          title: "Clothing & Apparel",
+          title: "Ropa & Apparel",
         },
         {
           id: "home",
           title: "Home Goods & Decor",
+          enabled: false
         },
         {
           id: "electronics",
           title: "Electronics & Appliances",
-        },
-        {
-          id: "beauty",
-          title: "Beauty & Personal Care",
         },
       ],
       location: [
